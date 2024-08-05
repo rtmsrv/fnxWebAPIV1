@@ -1,0 +1,6 @@
+@fnxWebAPI_HostAddress = http://localhost:5065
+
+GET {{fnxWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
